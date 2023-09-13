@@ -1,7 +1,0 @@
-main
-dist/*
-packer-plugin-amazon
-.docs
-.DS_Store
-*.sw*
-crash.log
